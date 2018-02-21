@@ -23,6 +23,7 @@ requires:
   Alien::Base: '0.005'
   File::ShareDir: '1.03'
   Path::Class: '0.013'
+  perl: '5.010'
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/ruz/Alien-LibGumbo
