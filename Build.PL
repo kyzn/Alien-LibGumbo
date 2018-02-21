@@ -25,7 +25,7 @@ my %module_build_args = (
     "Ruslan Zakirov <Ruslan.Zakirov\@gmail.com>"
   ],
   "dist_name" => "Alien-LibGumbo",
-  "dist_version" => "0.04",
+  "dist_version" => "0.05",
   "license" => "perl",
   "module_name" => "Alien::LibGumbo",
   "recommends" => {},

@@ -18,7 +18,7 @@ name: Alien-LibGumbo
 provides:
   Alien::LibGumbo:
     file: lib/Alien/LibGumbo.pm
-    version: '0.04'
+    version: '0.05'
 requires:
   Alien::Base: '0.005'
   File::ShareDir: '1.03'
@@ -27,5 +27,5 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/ruz/Alien-LibGumbo
-version: '0.04'
+version: '0.05'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
