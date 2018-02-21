@@ -31,6 +31,7 @@ my %module_build_args = (
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
+    "perl" => "5.010",
     "Alien::Base" => "0.005",
     "File::ShareDir" => "1.03",
     "Path::Class" => "0.013"
