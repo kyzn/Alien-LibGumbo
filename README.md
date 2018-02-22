@@ -9,6 +9,16 @@ system for use by perl modules like [HTML::Gumbo](https://metacpan.org/pod/HTML:
 
 **If you're interested in parsing HTML** then you want [HTML::Gumbo](https://metacpan.org/pod/HTML::Gumbo) module, not this.
 
+# SETUP
+
+To install system-wide Gumbo libraries, you can use following commands.
+
+On Ubuntu:
+`sudo apt-get install libgumbo-dev`
+
+On RedHat:
+`rpm -i gumbo-parser-devel`
+
 # AUTHOR
 
 Ruslan Zakirov <Ruslan.Zakirov@gmail.com>

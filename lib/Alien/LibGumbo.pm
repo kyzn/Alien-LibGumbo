@@ -19,6 +19,16 @@ system for use by perl modules like L<HTML::Gumbo>.
 
 B<If you're interested in parsing HTML> then you want L<HTML::Gumbo> module, not this.
 
+=head1 SETUP
+
+To install system-wide Gumbo libraries, you can use following commands.
+
+On Ubuntu:
+C<sudo apt-get install libgumbo-dev>
+
+On RedHat:
+C<rpm -i gumbo-parser-devel>
+
 =head1 AUTHOR
 
 Ruslan Zakirov E<lt>Ruslan.Zakirov@gmail.comE<gt>
